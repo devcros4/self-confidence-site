@@ -1,0 +1,33 @@
+{
+    "HomePage": {
+        "title": "Autoconfianza",
+        "subtitle": "Aumenta tu autoestima y vive una vida más feliz.",
+        "download": "Descargar App"
+    },
+    "Navigation": {
+        "privacy": "Privacidad",
+        "support": "Soporte"
+    },
+    "Features": {
+        "title": "¿Por qué Autoconfianza?",
+        "feature1Title": "Afirmaciones Diarias",
+        "feature1Desc": "Comienza tu día con pensamientos positivos adaptados a tus necesidades.",
+        "feature2Title": "Seguimiento del Progreso",
+        "feature2Desc": "Visualiza tu viaje y celebra cada hito.",
+        "feature3Title": "Privacidad Primero",
+        "feature3Desc": "Tus datos permanecen en tu dispositivo. Valoramos tu privacidad."
+    },
+    "Footer": {
+        "privacy": "Política de Privacidad",
+        "support": "Soporte",
+        "copyright": "Todos los derechos reservados."
+    },
+    "PrivacyPage": {
+        "title": "Política de Privacidad",
+        "content": "Tu privacidad es nuestra prioridad. Todos tus datos se almacenan localmente en tu dispositivo y nunca se comparten con terceros."
+    },
+    "SupportPage": {
+        "title": "Soporte",
+        "content": "¿Necesitas ayuda? Contáctanos en support@selfconfidence.app"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "title": "Self-confidence",
+    "subtitle": "Boost your self-esteem and live a happier life.",
+    "download": "Download App"
+  },
+  "Navigation": {
+    "privacy": "Privacy",
+    "support": "Support"
+  },
+  "Features": {
+    "title": "Why Self-confidence?",
+    "feature1Title": "Daily Affirmations",
+    "feature1Desc": "Start your day with positive thoughts tailored to your needs.",
+    "feature2Title": "Progress Tracking",
+    "feature2Desc": "Visualize your journey and celebrate every milestone.",
+    "feature3Title": "Privacy First",
+    "feature3Desc": "Your data stays on your device. We value your privacy."
+  },
+  "Footer": {
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "copyright": "All rights reserved."
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "content": "Your privacy is our priority. All your data is stored locally on your device and is never shared with third parties."
+  },
+  "SupportPage": {
+    "title": "Support",
+    "content": "Need help? Contact us at support@selfconfidence.app"
+  }
+}
