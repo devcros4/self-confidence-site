@@ -1,32 +1,35 @@
 .footer {
-    padding: 40px 0;
+    padding: 60px 0;
+    background: var(--surface);
     border-top: 1px solid var(--border);
-    background: var(--background);
     margin-top: auto;
 }
 
 .container {
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
-    gap: 20px;
 }
 
 .links {
     display: flex;
-    gap: 24px;
+    gap: 32px;
 }
 
 .link {
-    color: rgba(255, 255, 255, 0.6);
-    transition: color 0.2s;
+    color: var(--foreground);
+    opacity: 0.6;
+    font-size: 0.9rem;
+    transition: opacity 0.2s;
 }
 
 .link:hover {
+    opacity: 1;
     color: var(--primary);
 }
 
 .copyright {
-    color: rgba(255, 255, 255, 0.4);
-    font-size: 0.9rem;
+    color: var(--foreground);
+    opacity: 0.4;
+    font-size: 0.85rem;
 }

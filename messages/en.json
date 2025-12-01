@@ -19,15 +19,62 @@
   },
   "Footer": {
     "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
     "support": "Support",
-    "copyright": "All rights reserved."
+    "copyright": "© 2024 Self-confidence. All rights reserved."
   },
   "PrivacyPage": {
     "title": "Privacy Policy",
-    "content": "Your privacy is our priority. All your data is stored locally on your device and is never shared with third parties."
+    "collection": {
+      "title": "Data Collection",
+      "content": "We collect minimal data necessary to provide our services. This includes usage data and device information to improve app performance. We do not sell your personal data."
+    },
+    "usage": {
+      "title": "How We Use Your Data",
+      "content": "Your data is used to personalize your experience, such as remembering your favorite quotes and themes. We also use aggregated data for analytics."
+    },
+    "security": {
+      "title": "Security",
+      "content": "We implement industry-standard security measures to protect your information. However, no method of transmission over the internet is 100% secure."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have questions about this policy, please contact us at support@selfconfidence.app."
+    }
+  },
+  "TermsPage": {
+    "title": "Terms of Use",
+    "intro": {
+      "title": "Introduction",
+      "content": "By downloading or using the app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app."
+    },
+    "subscriptions": {
+      "title": "Subscriptions",
+      "content": "The app offers auto-renewing subscriptions. You can manage your subscription and turn off auto-renewal in your Apple ID or Google Play account settings."
+    },
+    "intellectual": {
+      "title": "Intellectual Property",
+      "content": "All intellectual property rights in the app and the material in it are owned by us. You must not copy or modify the app, any part of the app, or our trademarks in any way."
+    },
+    "liability": {
+      "title": "Liability",
+      "content": "The app is provided on an 'as is' basis. We do not warrant that the app will be compatible with all devices or that it will be uninterrupted or error-free."
+    }
   },
   "SupportPage": {
-    "title": "Support",
-    "content": "Need help? Contact us at support@selfconfidence.app"
+    "title": "Support Center",
+    "contact": {
+      "title": "Contact Us",
+      "content": "Need help? Our support team is here for you. Send us an email and we'll get back to you within 24 hours."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How do I cancel my subscription?",
+      "a1": "You can cancel your subscription through your device settings (Apple App Store or Google Play Store) under 'Subscriptions'.",
+      "q2": "Can I suggest a new feature?",
+      "a2": "Yes! We love hearing from our users. Please email us your ideas.",
+      "q3": "The app is crashing, what should I do?",
+      "a3": "Try updating to the latest version. If the issue persists, please contact us with your device model and OS version."
+    }
   }
 }

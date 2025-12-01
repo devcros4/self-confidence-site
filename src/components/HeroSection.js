@@ -16,13 +16,8 @@ export default function HeroSection() {
                 </div>
                 <div className={styles.visual}>
                     <div className={styles.circle}></div>
-                    <div className={styles.card}>
-                        {/* Abstract UI representation */}
-                        <div style={{ padding: '20px' }}>
-                            <div style={{ width: '40px', height: '40px', background: 'rgba(255,255,255,0.2)', borderRadius: '10px', marginBottom: '20px' }}></div>
-                            <div style={{ width: '80%', height: '10px', background: 'rgba(255,255,255,0.1)', borderRadius: '5px', marginBottom: '10px' }}></div>
-                            <div style={{ width: '60%', height: '10px', background: 'rgba(255,255,255,0.1)', borderRadius: '5px' }}></div>
-                        </div>
+                    <div className={styles.iconWrapper}>
+                        <img src="/self-confidence-site/icon.png" alt="App Icon" className={styles.appIcon} />
                     </div>
                 </div>
             </div>

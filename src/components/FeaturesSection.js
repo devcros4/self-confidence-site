@@ -11,13 +11,13 @@ export default function FeaturesSection() {
                 <div className={styles.grid}>
                     <div className={styles.card}>
                         <div className={styles.icon}>✨</div>
-                        <h3>{t('feature1Title')}</h3>
-                        <p>{t('feature1Desc')}</p>
+                        <div className={styles.cardTitle}>{t('feature1Title')}</div>
+                        <div className={styles.cardDescription}>{t('feature1Desc')}</div>
                     </div>
                     <div className={styles.card}>
                         <div className={styles.icon}>📈</div>
-                        <h3>{t('feature2Title')}</h3>
-                        <p>{t('feature2Desc')}</p>
+                        <div className={styles.cardTitle}>{t('feature2Title')}</div>
+                        <div className={styles.cardDescription}>{t('feature2Desc')}</div>
                     </div>
                     <div className={styles.card}>
                         <div className={styles.icon}>🔒</div>

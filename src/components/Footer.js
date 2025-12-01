@@ -10,6 +10,7 @@ export default function Footer() {
             <div className={`container ${styles.container}`}>
                 <div className={styles.links}>
                     <Link href="/privacy" className={styles.link}>{t('privacy')}</Link>
+                    <Link href="/terms" className={styles.link}>{t('terms')}</Link>
                     <Link href="/support" className={styles.link}>{t('support')}</Link>
                 </div>
                 <p className={styles.copyright}>

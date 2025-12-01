@@ -19,15 +19,62 @@
     },
     "Footer": {
         "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
         "support": "Support",
-        "copyright": "Tous droits réservés."
+        "copyright": "© 2024 Self-confidence. Tous droits réservés."
     },
     "PrivacyPage": {
         "title": "Politique de Confidentialité",
-        "content": "Votre vie privée est notre priorité. Toutes vos données sont stockées localement sur votre appareil et ne sont jamais partagées avec des tiers."
+        "collection": {
+            "title": "Collecte de Données",
+            "content": "Nous collectons un minimum de données nécessaires pour fournir nos services. Cela inclut les données d'utilisation et les informations sur l'appareil pour améliorer les performances de l'application."
+        },
+        "usage": {
+            "title": "Utilisation de Vos Données",
+            "content": "Vos données sont utilisées pour personnaliser votre expérience, comme mémoriser vos citations et thèmes préférés. Nous utilisons également des données agrégées pour l'analyse."
+        },
+        "security": {
+            "title": "Sécurité",
+            "content": "Nous mettons en œuvre des mesures de sécurité standard pour protéger vos informations. Cependant, aucune méthode de transmission sur Internet n'est sécurisée à 100%."
+        },
+        "contact": {
+            "title": "Contactez-nous",
+            "content": "Si vous avez des questions sur cette politique, veuillez nous contacter à support@selfconfidence.app."
+        }
+    },
+    "TermsPage": {
+        "title": "Conditions d'Utilisation",
+        "intro": {
+            "title": "Introduction",
+            "content": "En téléchargeant ou en utilisant l'application, ces conditions s'appliqueront automatiquement à vous. Vous devez donc vous assurer de les lire attentivement avant d'utiliser l'application."
+        },
+        "subscriptions": {
+            "title": "Abonnements",
+            "content": "L'application propose des abonnements à renouvellement automatique. Vous pouvez gérer votre abonnement et désactiver le renouvellement automatique dans les paramètres de votre compte Apple ID ou Google Play."
+        },
+        "intellectual": {
+            "title": "Propriété Intellectuelle",
+            "content": "Tous les droits de propriété intellectuelle de l'application et de son contenu nous appartiennent. Vous ne devez pas copier ou modifier l'application, une partie de l'application ou nos marques de quelque manière que ce soit."
+        },
+        "liability": {
+            "title": "Responsabilité",
+            "content": "L'application est fournie 'telle quelle'. Nous ne garantissons pas que l'application sera compatible avec tous les appareils ou qu'elle sera ininterrompue ou exempte d'erreurs."
+        }
     },
     "SupportPage": {
-        "title": "Support",
-        "content": "Besoin d'aide ? Contactez-nous à support@selfconfidence.app"
+        "title": "Centre d'Aide",
+        "contact": {
+            "title": "Contactez-nous",
+            "content": "Besoin d'aide ? Notre équipe de support est là pour vous. Envoyez-nous un e-mail et nous vous répondrons dans les 24 heures."
+        },
+        "faq": {
+            "title": "Questions Fréquemment Posées",
+            "q1": "Comment annuler mon abonnement ?",
+            "a1": "Vous pouvez annuler votre abonnement via les paramètres de votre appareil (Apple App Store ou Google Play Store) sous la rubrique 'Abonnements'.",
+            "q2": "Puis-je suggérer une nouvelle fonctionnalité ?",
+            "a2": "Oui ! Nous adorons avoir des nouvelles de nos utilisateurs. Envoyez-nous vos idées par e-mail.",
+            "q3": "L'application plante, que faire ?",
+            "a3": "Essayez de mettre à jour vers la dernière version. Si le problème persiste, contactez-nous avec votre modèle d'appareil et la version de l'OS."
+        }
     }
 }

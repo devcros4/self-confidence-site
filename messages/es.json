@@ -19,15 +19,62 @@
     },
     "Footer": {
         "privacy": "Política de Privacidad",
+        "terms": "Términos de Uso",
         "support": "Soporte",
-        "copyright": "Todos los derechos reservados."
+        "copyright": "© 2024 Self-confidence. Todos los derechos reservados."
     },
     "PrivacyPage": {
         "title": "Política de Privacidad",
-        "content": "Tu privacidad es nuestra prioridad. Todos tus datos se almacenan localmente en tu dispositivo y nunca se comparten con terceros."
+        "collection": {
+            "title": "Recopilación de Datos",
+            "content": "Recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Esto incluye datos de uso e información del dispositivo para mejorar el rendimiento de la aplicación."
+        },
+        "usage": {
+            "title": "Cómo Usamos Sus Datos",
+            "content": "Sus datos se utilizan para personalizar su experiencia, como recordar sus citas y temas favoritos. También utilizamos datos agregados para análisis."
+        },
+        "security": {
+            "title": "Seguridad",
+            "content": "Implementamos medidas de seguridad estándar de la industria para proteger su información. Sin embargo, ningún método de transmisión por Internet es 100% seguro."
+        },
+        "contact": {
+            "title": "Contáctenos",
+            "content": "Si tiene preguntas sobre esta política, contáctenos en support@selfconfidence.app."
+        }
+    },
+    "TermsPage": {
+        "title": "Términos de Uso",
+        "intro": {
+            "title": "Introducción",
+            "content": "Al descargar o usar la aplicación, estos términos se aplicarán automáticamente a usted. Por lo tanto, debe asegurarse de leerlos atentamente antes de usar la aplicación."
+        },
+        "subscriptions": {
+            "title": "Suscripciones",
+            "content": "La aplicación ofrece suscripciones de renovación automática. Puede administrar su suscripción y desactivar la renovación automática en la configuración de su cuenta de Apple ID o Google Play."
+        },
+        "intellectual": {
+            "title": "Propiedad Intelectual",
+            "content": "Todos los derechos de propiedad intelectual de la aplicación y el material que contiene son de nuestra propiedad. No debe copiar ni modificar la aplicación, ninguna parte de la aplicación ni nuestras marcas comerciales de ninguna manera."
+        },
+        "liability": {
+            "title": "Responsabilidad",
+            "content": "La aplicación se proporciona 'tal cual'. No garantizamos que la aplicación sea compatible con todos los dispositivos o que sea ininterrumpida o libre de errores."
+        }
     },
     "SupportPage": {
-        "title": "Soporte",
-        "content": "¿Necesitas ayuda? Contáctanos en support@selfconfidence.app"
+        "title": "Centro de Soporte",
+        "contact": {
+            "title": "Contáctenos",
+            "content": "¿Necesita ayuda? Nuestro equipo de soporte está aquí para usted. Envíenos un correo electrónico y le responderemos dentro de las 24 horas."
+        },
+        "faq": {
+            "title": "Preguntas Frecuentes",
+            "q1": "¿Cómo cancelo mi suscripción?",
+            "a1": "Puede cancelar su suscripción a través de la configuración de su dispositivo (Apple App Store o Google Play Store) en la sección 'Suscripciones'.",
+            "q2": "¿Puedo sugerir una nueva función?",
+            "a2": "¡Sí! Nos encanta escuchar a nuestros usuarios. Envíenos sus ideas por correo electrónico.",
+            "q3": "La aplicación se bloquea, ¿qué debo hacer?",
+            "a3": "Intente actualizar a la última versión. Si el problema persiste, contáctenos con su modelo de dispositivo y versión del sistema operativo."
+        }
     }
 }
