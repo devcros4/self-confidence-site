@@ -1,8 +1,14 @@
 import { useTranslations } from 'next-intl';
 import Navbar from '../../../components/Navbar';
 import Footer from '../../../components/Footer';
+import { setRequestLocale } from 'next-intl/server';
+
+export function generateStaticParams() {
+    return [{ locale: 'en' }, { locale: 'fr' }, { locale: 'es' }];
+}
 
 export default function PrivacyPage({ params: { locale } }) {
+    setRequestLocale(locale);
     const t = useTranslations('PrivacyPage');
 
     return (
